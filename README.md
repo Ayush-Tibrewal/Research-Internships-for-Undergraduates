@@ -85,15 +85,15 @@ JAPAN
   * [University of Tokyo](http://www.amgenscholars.com/japan-program), Amgen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
   * [OIST Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description), Okinawa Institute of Science and Technology 
   * [NIMS (Japan)](https://www.nims.go.jp/eng/hr-development/internship.html)
-  * [Hennge Global Internship Program](https://hennge.com/global/gip.html), for remote internship in a Japan-based tech start-up.
-  * [Internet Initiative Japan Internship] (https://www.iijlab.net/en/career/internship.html), for on-site tech internship in Japan.
+  * [Hennge Global Internship Program](https://hennge.com/global/gip.html), for remote internship in a Japan-based tech start-up. --- coding channgel aayushaayush wali id par
+  * [Internet Initiative Japan Internship] (https://www.iijlab.net/en/career/internship.html), for on-site tech internship in Japan.  -- not started yet
 
 AUSTRIA
 
-  * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
+  * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria -- late december
   
 HONG KONG 
-  * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/)
+  * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/) -- not started yet
   * [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
   * [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
   * [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
@@ -126,11 +126,11 @@ United Arab Emirates
 
 Turkey
 
-  * [Koç Üniversitesi Research Program](https://vprd.ku.edu.tr/kusrp/)
+  * [Koç Üniversitesi Research Program](https://vprd.ku.edu.tr/kusrp/) --- abhi nhi hui open i thinkk 
 
 RUSSIA
 
-  * HSE University, Moscow [Computer Science Internships](https://cs.hse.ru/en/internships/)
+  * HSE University, Moscow [Computer Science Internships](https://cs.hse.ru/en/internships/)     ----- samjh nhi aya 
 
 MULTIPLE COUNTRIES
 
